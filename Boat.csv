@@ -1,0 +1,8 @@
+boat_id,boat_name,boat_size,boat_length,boat_capacity,station_id,fishing
+23,msv,2,5,10,254,yes
+24,titanic,2.9,4,3,255,no
+25,rfd,2.1,6,12,256,yes
+26,vcy,2.4,3,7,257,yes
+27,hamister,2.7,4.5,5,258,no
+28,crud,4.6,6,15,260,no
+29,cinder,6.7,10.1,20,261,no
